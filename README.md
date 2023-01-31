@@ -59,7 +59,9 @@ print(list_of_nums)
 
 
 ## Output:
-![selectionsort](/README.md)
+![soring](https://user-images.githubusercontent.com/121490890/215660324-bfc77825-fe67-4d9e-8623-b9e14c2e7025.png)
+
+
 
 
 ## Result:
